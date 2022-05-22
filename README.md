@@ -1,0 +1,1 @@
+Multi module micro service architecture Have used the Basic Authention, based on user details present in database user will be able to access the protected routes token based registration/verification process for user to create an account for now verification link will be visible in log but I will be implementing the email functionality
